@@ -15,3 +15,8 @@ Familiarize yourself with [pip](https://packaging.python.org/guides/installing-u
   [Installing Python 3 on MacOS with Homebrew](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-local-programming-environment-on-macos)
   
   [Package management basics on Linux](https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg)
+  
+  
+  
+  
+  **Source**: *Google/Coursera - Google IT Automation with Python*
