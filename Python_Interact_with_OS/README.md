@@ -16,6 +16,11 @@ Familiarize yourself with [pip](https://packaging.python.org/guides/installing-u
   
   [Package management basics on Linux](https://www.digitalocean.com/community/tutorials/package-management-basics-apt-yum-dnf-pkg)
   
+
+### CSV File cheat sheet
+
+    * [CSV File Reading and Writing](https://docs.python.org/3/library/csv.html)
+    * [Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
   
   
   
